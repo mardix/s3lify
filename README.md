@@ -11,7 +11,7 @@
 
 ### Install
 
-You need to fist install S3lify
+Install S3lify. It's a Python script, run the pip command below
 
 `pip install s3lify`
 
